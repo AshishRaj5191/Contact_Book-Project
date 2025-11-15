@@ -1,0 +1,5 @@
+[2025-11-15 13:32:02] ERROR: FileNotFoundError | Operation: Load contacts from CSV
+[2025-11-15 13:33:24] ERROR: FileNotFoundError | Operation: Load contacts from CSV
+[2025-11-15 13:35:33] ERROR: FileNotFoundError | Operation: Load contacts from CSV
+[2025-11-15 13:35:51] ERROR: FileNotFoundError | Operation: Load contacts from CSV
+[2025-11-15 13:36:03] ERROR: FileNotFoundError | Operation: Load contacts from CSV
